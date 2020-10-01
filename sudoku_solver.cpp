@@ -86,7 +86,7 @@ bool sudoku_solver(int mat[][9],int i,int j,int n)
 
 	mat[i][j]=0;
 	return false;
-}
+} //run main function after that
 
 int main()
 {
